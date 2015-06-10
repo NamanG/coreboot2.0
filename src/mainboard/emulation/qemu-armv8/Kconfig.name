@@ -1,0 +1,2 @@
+config BOARD_EMULATION_QEMU_ARMV8
+	bool "QEMU armv8"
